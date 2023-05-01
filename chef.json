@@ -1,0 +1,54 @@
+[
+    {
+        "chefs": [
+            {
+                "id": 1,
+                "name": "Edward Kwon",
+                "likes": 1000,
+                "chef_picture": "https://as2.ftcdn.net/v2/jpg/04/26/24/29/1000_F_426242997_D3oXlQ2TWSU8mvRnRSah3UvfnNlFodcs.jpg",
+                "recipe_number": 3,
+                "experience": "8 years"
+            },
+            {
+                "id": 2,
+                "name": "Jun Lee",
+                "likes": 500,
+                "chef_picture": "https://as1.ftcdn.net/v2/jpg/04/71/48/08/1000_F_471480897_KiOetBS3kICo2IjQllfQo6SAGeZczLAI.jpg",
+                "recipe_number": 3,
+                "experience": "10 years"
+            },
+            {
+                "id": 3,
+                "name": "Yim Jung-sik",
+                "likes": 800,
+                "chef_picture": "https://as1.ftcdn.net/v2/jpg/01/39/06/26/1000_F_139062659_WPbPxElJE74KrHPxzyMqE4lXhhq984OV.jpg",
+                "recipe_number": 3,
+                "experience": "3 years"
+            },
+            {
+                "id": 4,
+                "name": "Cho Hee-sook",
+                "likes": 200,
+                "chef_picture": "https://as2.ftcdn.net/v2/jpg/02/32/14/99/1000_F_232149943_7aOReYR810FUG40vuAyIIFIAo3m4f9Pd.jpg",
+                "recipe_number": 3,
+                "experience": "7 years"
+            },
+            {
+                "id": 5,
+                "name": "Lee Yeon-bok",
+                "likes": 600,
+                "chef_picture": "https://as1.ftcdn.net/v2/jpg/02/68/20/28/1000_F_268202863_3DpFc23t6HPdvywALNMpgNzmASkbsTHm.jpg",
+                "recipe_number": 3,
+                "experience": "15 years"
+            },
+            {
+                "id": 6,
+                "name": "Baek Jong-won",
+                "likes": 100,
+                "chef_picture": "https://as1.ftcdn.net/v2/jpg/05/50/55/64/1000_F_550556479_F9DNw3JIGWXCFIWoXAJ3aWBMnMp9htcn.jpg",
+                "recipe_number": 3,
+                "experience": "5 years"
+            }
+        ]
+    }
+]
