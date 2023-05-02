@@ -7,7 +7,8 @@
                 "likes": 1000,
                 "chef_picture": "https://as2.ftcdn.net/v2/jpg/04/26/24/29/1000_F_426242997_D3oXlQ2TWSU8mvRnRSah3UvfnNlFodcs.jpg",
                 "recipe_number": 3,
-                "experience": "8 years"
+                "experience": "8 years",
+                "bio": "A Korean-American chef who has made a name for himself in Korea, Edward Kwon is the owner and head chef of the restaurant Lab XXIV in Seoul. He has worked as a judge on MasterChef Korea and hosted several cooking shows. Kwon's cooking style is described as modern fusion, incorporating both Korean and Western influences."
             },
             {
                 "id": 2,
@@ -15,7 +16,8 @@
                 "likes": 500,
                 "chef_picture": "https://as1.ftcdn.net/v2/jpg/04/71/48/08/1000_F_471480897_KiOetBS3kICo2IjQllfQo6SAGeZczLAI.jpg",
                 "recipe_number": 3,
-                "experience": "10 years"
+                "experience": "10 years",
+                "bio": "Jun Lee is a Korean chef who trained at Le Cordon Bleu in Paris and has worked in Michelin-starred restaurants in Europe. He is the owner and executive chef of Soigne, a fine dining restaurant in Seoul that has been praised for its innovative cuisine, which often incorporates traditional Korean flavors in unexpected ways."
             },
             {
                 "id": 3,
@@ -23,7 +25,8 @@
                 "likes": 800,
                 "chef_picture": "https://as1.ftcdn.net/v2/jpg/01/39/06/26/1000_F_139062659_WPbPxElJE74KrHPxzyMqE4lXhhq984OV.jpg",
                 "recipe_number": 3,
-                "experience": "3 years"
+                "experience": "3 years",
+                "bio": "Yim Jung-sik is a renowned Korean chef who has won numerous awards for his modern Korean cuisine. He is the owner and head chef of Jungsik and Jungsik Seoul, both of which have been awarded two Michelin stars. Yim's cuisine is characterized by his inventive take on classic Korean dishes, using modern techniques and presentation."
             },
             {
                 "id": 4,
@@ -31,7 +34,8 @@
                 "likes": 200,
                 "chef_picture": "https://as2.ftcdn.net/v2/jpg/02/32/14/99/1000_F_232149943_7aOReYR810FUG40vuAyIIFIAo3m4f9Pd.jpg",
                 "recipe_number": 3,
-                "experience": "7 years"
+                "experience": "7 years",
+                "bio": "Cho Hee-sook is the first Korean chef to be awarded three Michelin stars, for her restaurant Hansikgonggan in Seoul. She is known for her creative approach to traditional Korean cuisine, with dishes that showcase a wide range of flavors and textures. Cho has also been recognized for her efforts to promote Korean food on the global stage."
             },
             {
                 "id": 5,
@@ -39,7 +43,8 @@
                 "likes": 600,
                 "chef_picture": "https://as1.ftcdn.net/v2/jpg/02/68/20/28/1000_F_268202863_3DpFc23t6HPdvywALNMpgNzmASkbsTHm.jpg",
                 "recipe_number": 3,
-                "experience": "15 years"
+                "experience": "15 years",
+                "bio": "Lee Yeon-bok is a celebrity chef in Korea, known for his traditional Korean cooking and his appearances on cooking shows and variety shows. He is the owner of two restaurants in Seoul, Cheonwon and Diner Lee Yeon Bok. Lee's cooking style emphasizes the use of fresh, seasonal ingredients and traditional Korean techniques."
             },
             {
                 "id": 6,
@@ -47,7 +52,8 @@
                 "likes": 100,
                 "chef_picture": "https://as1.ftcdn.net/v2/jpg/05/50/55/64/1000_F_550556479_F9DNw3JIGWXCFIWoXAJ3aWBMnMp9htcn.jpg",
                 "recipe_number": 3,
-                "experience": "5 years"
+                "experience": "5 years",
+                "bio": "Baek Jong-won is a chef and restaurateur who has become famous for his ability to turn struggling restaurants around. He is the founder of several restaurant chains in Korea, including Baek Jong-won's Alley Restaurant and Baek Jong-won's Food Truck. Baek's cooking style is rooted in traditional Korean cuisine, with a focus on simple, flavorful dishes made with high-quality ingredients."
             }
         ]
     }
