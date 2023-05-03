@@ -14,25 +14,25 @@
                         "recipe_id": 123411,
                         "recipe_name": "Kimchi",
                         "ingredients": "cabbage, fried eggs, noodles, radish & cucumber",
-                        "cooking_method": "Fermenting",
+                        "cooking_method": "pickling",
                         "rating": 4.5,
-                        "photo": "https://images.pexels.com/photos/262897/pexels-photo-262897.jpeg"
+                        "photo": "https://images.unsplash.com/photo-1618351708186-5ba8a9da1933"
                     },
                     {
                         "recipe_id": 123412,
-                        "recipe_name": "Kimchi",
-                        "ingredients": "cabbage, fried eggs, noodles, radish & cucumber",
-                        "cooking_method": "Fermenting",
+                        "recipe_name": "Bibimbap ",
+                        "ingredients": "vegetables, meat, fried eggs, steamed rice & sauce",
+                        "cooking_method": "boiling",
                         "rating": 4.5,
-                        "photo": "https://images.pexels.com/photos/2313682/pexels-photo-2313682.jpeg"
+                        "photo": "https://images.unsplash.com/photo-1600289031464-74d374b64991"
                     },
                     {
                         "recipe_id": 123413,
-                        "recipe_name": "Kimchi",
-                        "ingredients": "cabbage, fried eggs, noodles, radish & cucumber",
+                        "recipe_name": "Samgyetang ",
+                        "ingredients": "chicken, rice, garlic, ginger & jujube",
                         "cooking_method": "Fermenting",
                         "rating": 4.5,
-                        "photo": "https://images.pexels.com/photos/357756/pexels-photo-357756.jpeg"
+                        "photo": "https://images.unsplash.com/photo-1562749606-0a9eb5a8a0f3"
                     }
                 ]
             },
@@ -43,31 +43,31 @@
                 "chef_picture": "https://as1.ftcdn.net/v2/jpg/04/71/48/08/1000_F_471480897_KiOetBS3kICo2IjQllfQo6SAGeZczLAI.jpg",
                 "recipe_number": 3,
                 "experience": "10 years",
-                "bio": "Jun Lee is a Korean chef who trained at Le Cordon Bleu in Paris and has worked in Michelin-starred restaurants in Europe. He is the owner and executive chef of Soigne, a fine dining restaurant in Seoul that has been praised for its innovative cuisine, which often incorporates traditional Korean flavors in unexpected ways.",
+                "bio": "Jun Lee is a Korean chef who trained at Le Cordon Bleu in Paris and has worked in Michelin-starred restaurants in Europe. She is the owner and executive chef of Soigne, a fine dining restaurant in Seoul that has been praised for its innovative cuisine, which often incorporates traditional Korean flavors in unexpected ways.",
                 "recipes": [
                     {
                         "recipe_id": 123421,
-                        "recipe_name": "Kimchi",
-                        "ingredients": "cabbage, fried eggs, noodles, radish & cucumber",
+                        "recipe_name": "Kimbap ",
+                        "ingredients": "steamed white rice, vegetables, egg, meat & dried seaweed.",
                         "cooking_method": "Fermenting",
                         "rating": 4.5,
-                        "photo": "https://images.pexels.com/photos/262897/pexels-photo-262897.jpeg"
+                        "photo": "https://images.unsplash.com/photo-1608731002466-057222dc4989"
                     },
                     {
                         "recipe_id": 123422,
-                        "recipe_name": "Kimchi",
-                        "ingredients": "cabbage, fried eggs, noodles, radish & cucumber",
+                        "recipe_name": "Samgyetang ",
+                        "ingredients": "chicken, rice, garlic, ginger & jujube",
                         "cooking_method": "Fermenting",
                         "rating": 4.5,
-                        "photo": "https://images.pexels.com/photos/2313682/pexels-photo-2313682.jpeg"
+                        "photo": "https://images.unsplash.com/photo-1562749606-0a9eb5a8a0f3"
                     },
                     {
                         "recipe_id": 123423,
                         "recipe_name": "Kimchi",
                         "ingredients": "cabbage, fried eggs, noodles, radish & cucumber",
-                        "cooking_method": "Fermenting",
+                        "cooking_method": "pickling",
                         "rating": 4.5,
-                        "photo": "https://images.pexels.com/photos/357756/pexels-photo-357756.jpeg"
+                        "photo": "https://images.unsplash.com/photo-1618351708186-5ba8a9da1933"
                     }
                 ]
             },
@@ -82,11 +82,11 @@
                 "recipes": [
                     {
                         "recipe_id": 123431,
-                        "recipe_name": "Kimchi",
-                        "ingredients": "cabbage, fried eggs, noodles, radish & cucumber",
+                        "recipe_name": "Kimbap ",
+                        "ingredients": "steamed white rice, vegetables, egg, meat & dried seaweed.",
                         "cooking_method": "Fermenting",
                         "rating": 4.5,
-                        "photo": "https://images.pexels.com/photos/262897/pexels-photo-262897.jpeg"
+                        "photo": "https://images.unsplash.com/photo-1608731002466-057222dc4989"
                     },
                     {
                         "recipe_id": 123432,
@@ -94,15 +94,15 @@
                         "ingredients": "cabbage, fried eggs, noodles, radish & cucumber",
                         "cooking_method": "Fermenting",
                         "rating": 4.5,
-                        "photo": "https://images.pexels.com/photos/2313682/pexels-photo-2313682.jpeg"
+                        "photo": "https://images.unsplash.com/photo-1618351708186-5ba8a9da1933"
                     },
                     {
                         "recipe_id": 123433,
-                        "recipe_name": "Kimchi",
-                        "ingredients": "cabbage, fried eggs, noodles, radish & cucumber",
+                        "recipe_name": "Samgyetang ",
+                        "ingredients": "chicken, rice, garlic, ginger & jujube",
                         "cooking_method": "Fermenting",
                         "rating": 4.5,
-                        "photo": "https://images.pexels.com/photos/357756/pexels-photo-357756.jpeg"
+                        "photo": "https://images.unsplash.com/photo-1562749606-0a9eb5a8a0f3"
                     }
                 ]
             },
@@ -117,11 +117,11 @@
                 "recipes": [
                     {
                         "recipe_id": 123441,
-                        "recipe_name": "Kimchi",
-                        "ingredients": "cabbage, fried eggs, noodles, radish & cucumber",
-                        "cooking_method": "Fermenting",
+                        "recipe_name": "Dakgalbi ",
+                        "ingredients": "stir-fried chicken, potatu, gochujang, garlic, ginger, and soy sauce.",
+                        "cooking_method": "blanching",
                         "rating": 4.5,
-                        "photo": "https://images.pexels.com/photos/262897/pexels-photo-262897.jpeg"
+                        "photo": "https://as2.ftcdn.net/v2/jpg/01/81/86/87/1000_F_181868735_9WkCVAOpL1Z0SfYda5I2FvkgT184mo4l.jpg"
                     },
                     {
                         "recipe_id": 123442,
@@ -129,15 +129,15 @@
                         "ingredients": "cabbage, fried eggs, noodles, radish & cucumber",
                         "cooking_method": "Fermenting",
                         "rating": 4.5,
-                        "photo": "https://images.pexels.com/photos/2313682/pexels-photo-2313682.jpeg"
+                        "photo": "https://images.unsplash.com/photo-1618351708186-5ba8a9da1933"
                     },
                     {
                         "recipe_id": 123443,
-                        "recipe_name": "Kimchi",
-                        "ingredients": "cabbage, fried eggs, noodles, radish & cucumber",
-                        "cooking_method": "Fermenting",
+                        "recipe_name": "Galbi ",
+                        "ingredients": "Grilled beef, soy sauce, sugar, garlic, ginger, and sesame oil.",
+                        "cooking_method": "boiling",
                         "rating": 4.5,
-                        "photo": "https://images.pexels.com/photos/357756/pexels-photo-357756.jpeg"
+                        "photo": "https://as2.ftcdn.net/v2/jpg/03/94/42/61/1000_F_394426119_Nds4hiLjuZLGS00SyEstxuy0dE6l6pEJ.jpg"
                     }
                 ]
             },
@@ -148,15 +148,15 @@
                 "chef_picture": "https://as1.ftcdn.net/v2/jpg/02/68/20/28/1000_F_268202863_3DpFc23t6HPdvywALNMpgNzmASkbsTHm.jpg",
                 "recipe_number": 3,
                 "experience": "15 years",
-                "bio": "Lee Yeon-bok is a celebrity chef in Korea, known for his traditional Korean cooking and his appearances on cooking shows and variety shows. He is the owner of two restaurants in Seoul, Cheonwon and Diner Lee Yeon Bok. Lee's cooking style emphasizes the use of fresh, seasonal ingredients and traditional Korean techniques.",
+                "bio": "Lee Yeon-bok is a celebrity chef in Korea, known for his traditional Korean cooking and her appearances on cooking shows and variety shows. She is the owner of two restaurants in Seoul, Cheonwon and Diner Lee Yeon Bok. Lee's cooking style emphasizes the use of fresh, seasonal ingredients and traditional Korean techniques.",
                 "recipes": [
                     {
                         "recipe_id": 123451,
-                        "recipe_name": "Kimchi",
-                        "ingredients": "cabbage, fried eggs, noodles, radish & cucumber",
-                        "cooking_method": "Fermenting",
+                        "recipe_name": "Dakgalbi ",
+                        "ingredients": "stir-fried chicken, potatu, gochujang, garlic, ginger, and soy sauce.",
+                        "cooking_method": "blanching",
                         "rating": 4.5,
-                        "photo": "https://images.pexels.com/photos/262897/pexels-photo-262897.jpeg"
+                        "photo": "https://as2.ftcdn.net/v2/jpg/01/81/86/87/1000_F_181868735_9WkCVAOpL1Z0SfYda5I2FvkgT184mo4l.jpg"
                     },
                     {
                         "recipe_id": 123452,
@@ -164,15 +164,15 @@
                         "ingredients": "cabbage, fried eggs, noodles, radish & cucumber",
                         "cooking_method": "Fermenting",
                         "rating": 4.5,
-                        "photo": "https://images.pexels.com/photos/2313682/pexels-photo-2313682.jpeg"
+                        "photo": "https://images.unsplash.com/photo-1618351708186-5ba8a9da1933"
                     },
                     {
                         "recipe_id": 123453,
-                        "recipe_name": "Kimchi",
-                        "ingredients": "cabbage, fried eggs, noodles, radish & cucumber",
-                        "cooking_method": "Fermenting",
+                        "recipe_name": "Galbi ",
+                        "ingredients": "Grilled beef, soy sauce, sugar, garlic, ginger, and sesame oil.",
+                        "cooking_method": "boiling",
                         "rating": 4.5,
-                        "photo": "https://images.pexels.com/photos/357756/pexels-photo-357756.jpeg"
+                        "photo": "https://as2.ftcdn.net/v2/jpg/03/94/42/61/1000_F_394426119_Nds4hiLjuZLGS00SyEstxuy0dE6l6pEJ.jpg"
                     }
                 ]
             },
@@ -187,27 +187,27 @@
                 "recipes": [
                     {
                         "recipe_id": 123461,
-                        "recipe_name": "Kimchi",
-                        "ingredients": "cabbage, fried eggs, noodles, radish & cucumber",
+                        "recipe_name": "Bulgogi ",
+                        "ingredients": "marinated beef, soy sauce, sugar, garlic, sesame oil, and black pepper.",
                         "cooking_method": "Fermenting",
                         "rating": 4.5,
-                        "photo": "https://images.pexels.com/photos/262897/pexels-photo-262897.jpeg"
+                        "photo": "https://images.unsplash.com/photo-1583032353423-04fd96ef221c"
                     },
                     {
                         "recipe_id": 123462,
-                        "recipe_name": "Kimchi",
-                        "ingredients": "cabbage, fried eggs, noodles, radish & cucumber",
-                        "cooking_method": "Fermenting",
+                        "recipe_name": "Japchae ",
+                        "ingredients": "noodles, mushrooms, carrots, spinach, and beef.",
+                        "cooking_method": "blanching",
                         "rating": 4.5,
-                        "photo": "https://images.pexels.com/photos/2313682/pexels-photo-2313682.jpeg"
+                        "photo": "https://images.unsplash.com/photo-1583032015879-e5022cb87c3b"
                     },
                     {
                         "recipe_id": 123463,
-                        "recipe_name": "Kimchi",
-                        "ingredients": "cabbage, fried eggs, noodles, radish & cucumber",
-                        "cooking_method": "Fermenting",
+                        "recipe_name": "Bibimbap ",
+                        "ingredients": "vegetables, meat, fried eggs, steamed rice & sauce",
+                        "cooking_method": "boiling",
                         "rating": 4.5,
-                        "photo": "https://images.pexels.com/photos/357756/pexels-photo-357756.jpeg"
+                        "photo": "https://images.unsplash.com/photo-1600289031464-74d374b64991"
                     }
                 ]
             }
